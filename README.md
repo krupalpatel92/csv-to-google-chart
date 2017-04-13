@@ -3,7 +3,7 @@
 Convert any CSV file to DataTable structure for Google Chart.
 
 ## Why use this
-Safe | Secure | Private 
+Safe • Secure • Private 
 Secure your CSV data don't use any service for convert CSV to DataTable array.
 
 ![linechart](https://cloud.githubusercontent.com/assets/6726905/25003390/d4112674-206c-11e7-84e3-59f9bb7abae5.png)
